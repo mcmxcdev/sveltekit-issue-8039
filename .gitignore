@@ -1,0 +1,18 @@
+.DS_Store
+/node_modules/
+.pnpm-debug.log
+static/g
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+.history/
+stats.html
+.env
+.svelte-kit
+build
+
+# Local Netlify folder
+.netlify
