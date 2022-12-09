@@ -9,4 +9,6 @@
 
 <h1>Blog details page</h1>
 
-{JSON.stringify(post)}
+<h2>{post.title}</h2>
+
+{@html post.html}

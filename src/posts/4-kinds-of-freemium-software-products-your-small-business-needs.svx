@@ -13,11 +13,6 @@ tags:
   - Success
 ---
 
-<figure class="mb-10">
-  <img src="/4-kinds-of-freemium-software-products-your-small-business-needs.jpg" alt="Tablet showing dashboard with visitors overview" loading="lazy" />
-  <figcaption class="text-center">Photo by <a href="https://www.pexels.com/photo/black-samsung-tablet-computer-106344/" target="_blank" rel="noreferrer">PhotoMIX Company</a> from <a href="https://www.pexels.com" target="_blank" rel="noreferrer">Pexels</a></figcaption>
-</figure>
-
 Small-business owners know that in order to be successful, they need to turn a profit -- and that means making and sticking to a budget. There are a lot of software options for keeping your company afloat -- but what are the best free versions of these tools? How do you create efficiencies within your processes and make sure you’re operating at optimum capacity?
 
 Let’s take a look at some free tools you should check out that will help you run a smoother, more reliable business:
